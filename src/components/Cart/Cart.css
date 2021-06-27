@@ -1,0 +1,14 @@
+.cart {
+    padding-top: 1rem;
+    color: white;
+}
+.player-list {
+    margin: 1rem 0rem;
+    background-color: #343A40;
+    padding: 15px;
+    border-radius: 8px;
+}
+.player-list li {
+    list-style-type: decimal-leading-zero;
+    padding: 5px 0px
+}
