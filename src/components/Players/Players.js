@@ -8,7 +8,7 @@ import Cart from '../Cart/Cart';
 
 const Players = () => {
     
-    const [players, setPlayers] = useState(fakeData);
+    const [players] = useState(fakeData);
     const [cart, setCart] = useState([]);
     
     const handleAddPlayer = (player) =>{
